@@ -1,0 +1,20 @@
+
+.container {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+table { border-collapse: collapse; }
+tr {
+    border: solid thin;
+}
+td {
+    padding: 12px;
+}
+input {
+    margin-top: 10px;
+    padding: 4px;
+}
